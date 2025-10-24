@@ -1,0 +1,51 @@
+{
+  "name": "Pavillon am Ufer",
+  "category": "Café & Bar",
+  "tagline": "Café by day, bar by night on the Landwehr Canal",
+  "description": "Located on the picturesque banks of the Landwehr Canal in Berlin-Kreuzberg, Pavillon am Ufer is a charming café and bar offering a diverse selection of quality coffee, delicious snacks, and Mediterranean-influenced delicacies. By day, enjoy our huge selection of good coffee, waffles with Nutella, tramezzini, quiches, and sandwiches. As evening falls, we transform into a cozy bar serving Aperol Spritz, wine, and cocktails.",
+  "address": {
+    "street": "Paul-Lincke-Ufer 4",
+    "postal_code": "10999",
+    "city": "Berlin",
+    "neighborhood": "Kreuzberg",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "+49 30 61629954",
+    "email": "info@pavillonamufer.de"
+  },
+  "hours": {
+    "monday_friday": "9:00 - 21:00",
+    "saturday_sunday": "10:00 - 21:00"
+  },
+  "social_media": {
+    "instagram": "https://www.instagram.com/pavillonamufer/",
+    "instagram_handle": "@pavillonamufer",
+    "facebook": "https://www.facebook.com/pavillonamufer.kreuzberg/"
+  },
+  "specialties": [
+    "Quality coffee and espresso drinks",
+    "Waffles with Nutella",
+    "Mediterranean-influenced tramezzini",
+    "Homemade quiches",
+    "Fresh sandwiches",
+    "Aperol Spritz",
+    "Wine selection",
+    "Canal-side terrace seating"
+  ],
+  "features": [
+    "Große Auswahl an Teesorten",
+    "Guter Kaffee",
+    "Frühstück",
+    "Mittagessen",
+    "Allein speisen",
+    "Outdoor terrace",
+    "Canal-side location",
+    "Vegetarian options",
+    "Bar atmosphere in evening"
+  ],
+  "sample_prices": {
+    "flat_white": "4€",
+    "pricing_level": "Average"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "overall_rating": "4.5",
+  "total_reviews": 742,
+  "platforms": {
+    "google": {
+      "rating": "4.5",
+      "reviews": 742
+    },
+    "foursquare": {
+      "rating": "8.6/10",
+      "rank": "#1 for snack places in Berlin"
+    }
+  },
+  "reviews": [
+    {
+      "author": "Sarah M.",
+      "rating": 5,
+      "text": "Fantastische Waffeln und Cappuccino! A small coffee kiosk on the bank of the canal with a relaxing view that is perfect on a sunny afternoon. The staff is always friendly and ready to help.",
+      "date": "März 2025",
+      "platform": "Google"
+    },
+    {
+      "author": "Thomas K.",
+      "rating": 5,
+      "text": "Great place to stop for a coffee and perhaps a waffle while taking a stroll along the Landwehrkanal. The canal-side location makes it special, and the sandwiches are really good!",
+      "date": "Februar 2025",
+      "platform": "Foursquare"
+    },
+    {
+      "author": "Emma L.",
+      "rating": 4,
+      "text": "The chef cooks nicely made waffles and croissants. Great service and a cozy atmosphere. Medium prices are fair for the location and quality. Perfect spot for breakfast or afternoon coffee.",
+      "date": "Januar 2025",
+      "platform": "Google"
+    },
+    {
+      "author": "Marcus B.",
+      "rating": 5,
+      "text": "One of the best spots in Kreuzberg for coffee! The terrace by the canal is beautiful in summer. They have a huge selection of teas and the Mediterranean-influenced snacks are delicious.",
+      "date": "Dezember 2024",
+      "platform": "Google"
+    }
+  ]
+}
